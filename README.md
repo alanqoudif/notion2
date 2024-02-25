@@ -71,3 +71,4 @@ npx convex dev
 npm run dev
 ```
 # notion
+# notion2
